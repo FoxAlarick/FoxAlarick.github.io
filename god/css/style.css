@@ -1,0 +1,55 @@
+.header{
+	font-size: 20px;
+	line-height: 1.5;
+	margin-bottom: 50px;
+}
+.header span{
+display: block;
+}
+.section{
+	padding: 30px auto;
+}
+.container, .col-lg-6, .col-lg-4{
+	
+}
+.text-uppercase{
+	text-transform: uppercase;
+}
+.form{
+	border: 5px solid blue
+	padding:35px 20px;
+}
+.form input {
+	margin-bottom: 20px;
+}
+.form-header{
+	margin-top: 30px;
+	margin-bottom: 20px;
+	font-size: 20px;
+	font-weight: 900;
+}
+.btn-form{
+	margin: 20px auto;
+}
+.section-header{
+	text-transform: uppercase;
+	font-size: 20px;
+	font-weight: 900;
+	margin-bottom: 50px;
+	margin-top: 50px;
+}
+.btn-din{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.feature-box{
+	margin: 20px auto;
+	font-size: 20px;
+	font-weight: 500;
+}
+.feature{
+	margin-bottom: 60px;
+}
+.video{
+	margin-bottom: 30px;
+}
